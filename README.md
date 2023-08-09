@@ -1,8 +1,23 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React Context API Çalışması
 
-Currently, two official plugins are available:
+Bu projede React Context API öğrenmek amaçlanmıştır.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Kurulum ve Çalıştırma
+
+1. Proje dosyalarını bilgisayarınıza indirin veya kopyalayın.
+
+2. Proje dizininde aşağıdaki komutları sırasıyla çalıştırın:
+
+```
+npm install
+```
+```
+npm run dev
+```
+
+3. Uygulama, varsayılan olarak tarayıcınızda `http://localhost:3000` adresinde çalışacaktır.
+
+## Dikkat Edilmesi Gereken Noktalar
+
+- Proje, [React](https://reactjs.org/) kütüphanesi kullanılarak geliştirilmiştir. Dolayısıyla, projeyi çalıştırmak için bilgisayarınızda [Node.js](https://nodejs.org/) ve [npm](https://www.npmjs.com/) kurulu olmalıdır.
